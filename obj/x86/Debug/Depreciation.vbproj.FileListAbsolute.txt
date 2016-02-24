@@ -1,0 +1,22 @@
+C:\Users\Trevor\Documents\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Trevor\Documents\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.frmDepreciation.resources
+C:\Users\Trevor\Documents\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.frmDisplayInventory.resources
+C:\Users\Trevor\Documents\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.Resources.resources
+C:\Users\Trevor\Documents\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Trevor\Documents\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Trevor\Documents\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+C:\Users\Trevor\Documents\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+C:\Users\Trevor\Documents\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\bin\Debug\Depreciation.xml
+C:\Users\Trevor\Documents\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.exe
+C:\Users\Trevor\Documents\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.xml
+C:\Users\Trevor\Documents\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.pdb
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.xml
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.pdb
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\bin\Debug\Depreciation.xml
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.frmDepreciation.resources
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.frmDisplayInventory.resources
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.Resources.resources
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.vbproj.GenerateResource.Cache
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Fall 2013\CIT 148 - Visual Basic - Fall 2013\Depreciation\Depreciation\obj\x86\Debug\Depreciation.exe
